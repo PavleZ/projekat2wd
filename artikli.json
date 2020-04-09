@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "ime":"Artikal 1",
+        "cena1":11,
+        "cena2":12
+    },
+    {
+        "id":2,
+        "ime":"Artikal 2",
+        "cena1":21,
+        "cena2":22
+    },
+    {
+        "id":3,
+        "ime":"Artikal 3",
+        "cena1":31,
+        "cena2":32
+    },{
+        "id":4,
+        "ime":"Artikal 4",
+        "cena1":41,
+        "cena2":42
+    },
+    {
+        "id":5,
+        "ime":"Artikal 5",
+        "cena1":51,
+        "cena2":52
+    },
+    {
+        "id":6,
+        "ime":"Artikal 6",
+        "cena1":61,
+        "cena2":62
+    },
+    {
+        "id":7,
+        "ime":"Artikal 7",
+        "cena1":71,
+        "cena2":72
+    },
+    {
+        "id":8,
+        "ime":"Artikal 8",
+        "cena1":81,
+        "cena2":82
+    },{
+        "id":9,
+        "ime":"Artikal 9",
+        "cena1":91,
+        "cena2":92
+    }
+   
+]
